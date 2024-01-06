@@ -1,5 +1,5 @@
 {
-  "name": "odoo-await",
+  "name": "@radadi/odoo-await",
   "version": "3.4.1",
   "description": "Simple Odoo API client using promises.",
   "main": "lib/index.js",
